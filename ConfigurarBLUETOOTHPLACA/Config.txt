@@ -1,0 +1,3 @@
+AT+NAME AnimalChecking_A01
+
+AT+PIN 1234
